@@ -1,0 +1,14 @@
+{
+  "name": "vendor_name/week8v5",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "corey",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+  }
+}
